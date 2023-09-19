@@ -1,3 +1,4 @@
-,,,data
 title,description,url,image
-ToDoApp,A minimalist todo app hosted online,www.connorprojects.com.au,image1
+ToDoApp,A minimalist todo app hosted online,https://github.com/Higgs2209/WebToDoApp,1.png
+Personal Webstie,Source code for the website you are on right now,https://github.com/Higgs2209/PersonalWebsite,2.png
+Legal Case Summariser,An AI lamla model driven case summariser app. It provides short (500-800 words) summaries of a case you direct it to. URL feature coming soon,https://github.com/Higgs2209/PersonalWebsite,3.png
